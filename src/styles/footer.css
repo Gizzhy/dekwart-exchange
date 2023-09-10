@@ -1,0 +1,15 @@
+.footer {
+  background-color: blue;
+  height: 80px;
+  margin-top: 70px;
+  text-align: center;
+  margin-bottom: 0;
+  overflow-y: hidden;
+}
+.footer-t {
+  padding: 30px 0 0 0;
+  font-weight: 500;
+}
+.footer-w {
+  color: whitesmoke;
+}

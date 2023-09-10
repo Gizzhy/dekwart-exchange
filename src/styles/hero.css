@@ -1,0 +1,68 @@
+.hero-a1 {
+  display: flex;
+  width: 100%;
+}
+.hero-a11 {
+  font-family: "Orbitron", sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  width: 50%;
+  padding: 90px 0 0 0;
+}
+.hero-a12 {
+  width: 50%;
+  padding: 15px 0;
+}
+.exc {
+  color: rgb(47, 0, 255);
+}
+.hero-img {
+  width: 100%;
+}
+.h-w {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+}
+.hero-b {
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  height: 70px;
+  width: 180px;
+  color: whitesmoke;
+  background-color: blue;
+  border: 0;
+  border-radius: 50px;
+}
+.hero-b:hover {
+  /* color: blue; */
+  background-color: rgb(12, 12, 150);
+  /* border: 1px blue solid; */
+  cursor: pointer;
+}
+.what-img {
+  width: 20%;
+}
+
+@media screen and (min-width: 100px) and (max-width: 299px) {
+}
+@media screen and (min-width: 300px) and (max-width: 500px) {
+  .hero-a1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .hero-a11 {
+    font-size: 50px;
+    width: 100%;
+  }
+  .hero-a12 {
+    width: 100%;
+    padding: 0;
+  }
+}
+@media screen and (min-width: 501px) and (max-width: 850px) {
+}
+@media screen and (min-width: 851px) and (max-width: 1200px) {
+}
