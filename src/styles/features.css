@@ -7,8 +7,11 @@
   font-size: 50px;
 }
 .offer {
-  background-color: blue;
-  color: whitesmoke;
+  /* border-bottom: 4px blue dashed; */
+  text-decoration: underline wavy blue 5px;
+
+  /* background-color: blue; */
+  color: black;
 }
 .what-body {
   /* border: 1px black solid; */

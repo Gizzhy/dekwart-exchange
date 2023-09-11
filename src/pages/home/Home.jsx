@@ -1,11 +1,12 @@
 import Footer from "../../components/Footer";
-// import Navbar from "../../components/Navbar";
+import Preloaderr from "../../components/Preloaderr";
 import Features from "./Features";
 import Hero from "./Hero";
 
 const Home = () => {
   return (
     <>
+      <Preloaderr />
       <Hero />
       <Features />
       <Footer />
