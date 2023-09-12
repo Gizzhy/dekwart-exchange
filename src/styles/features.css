@@ -9,6 +9,7 @@
 .offer {
   /* border-bottom: 4px blue dashed; */
   text-decoration: underline wavy #ff1100 5px;
+  -webkit-text-decoration: underline wavy #ff1100 5px;
 
   /* background-color: blue; */
   color: black;
