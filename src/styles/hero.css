@@ -14,7 +14,7 @@
   padding: 15px 0;
 }
 .exc {
-  color: rgb(47, 0, 255);
+  color: #ff1100;
 }
 .hero-img {
   width: 100%;
@@ -31,13 +31,13 @@
   height: 70px;
   width: 180px;
   color: whitesmoke;
-  background-color: blue;
+  background-color: #ff1100;
   border: 0;
   border-radius: 50px;
 }
 .hero-b:hover {
   /* color: blue; */
-  background-color: rgb(12, 12, 150);
+  background-color: #bd3228;
   /* border: 1px blue solid; */
   cursor: pointer;
 }

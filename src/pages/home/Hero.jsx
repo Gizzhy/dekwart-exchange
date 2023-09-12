@@ -1,9 +1,9 @@
 import React from "react";
 import "../../styles/hero.css";
 
-import Cryptooo from "../../assets/images/Cryptooo.gif";
-// import whatsapp from "../../assets/images/whatsapp.svg";
-import Bitcoin from "../../assets/images/Bitcoin.svg";
+// import Cryptooo from "../../assets/images/Cryptooo.gif";
+import Bitcoinnn from "../../assets/images/Bitcoinnn.svg";
+// import Bitcoin from "../../assets/images/Bitcoin.svg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 
@@ -31,7 +31,7 @@ const Hero = () => {
             </a>
           </div>
           <div className="hero-a12">
-            <img className="hero-img" src={Cryptooo} alt="dewkart" />
+            <img className="hero-img" src={Bitcoinnn} alt="dewkart" />
           </div>
         </div>
       </div>
