@@ -10,6 +10,12 @@
   /* border-bottom: 4px blue dashed; */
   text-decoration: underline wavy #ff1100 5px;
   -webkit-text-decoration: underline wavy #ff1100 5px;
+  /* -webkit-text-decoration-line: wavy; */
+
+  -webkit-text-decoration-line: wavy; /* Safari */
+  text-decoration-line: wavy;
+  text-decoration-color: #ff1100;
+  -webkit-text-decoration-color: #ff1100;
 
   /* background-color: blue; */
   color: black;
